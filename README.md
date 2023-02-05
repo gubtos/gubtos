@@ -22,7 +22,7 @@
 ![image](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 <br/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> **But I've worked with ...**
+## <img src="https://camo.githubusercontent.com/4a7b6937f206904ce1f01f844c951e88a55802144aff0f840f3c68f90912aa3d/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f37653936643939346632396233383866363366376161373766663262656137382f74656e6f722e676966" width ="25"> **But I've worked with ...**
 <br/>
 
 ![image](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
